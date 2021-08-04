@@ -1,8 +1,9 @@
-# IZ CALCULATOR ⚓
-[![Build Status](https://izcalculator.herokuapp.com.svg?branch=master)](https://izcalculator.herokuapp.com)
-[![Docs](https://izcalculator.herokuapp.com)](https://izcalculator.herokuapp.com)
+# IZ CALCULATOR 
 
-[![License](https://img.shields.io/github/license/project-serum/calculator?color=ff69b4)](https://opensource.org/licenses/Apache-2.0)
+This App help people to create and order Bugger 
+![Bugger Homepage](https://github.com/Angelus123/BurgerBuilder/blob/Developer/src/assets/homepage/Screenshot_burger.png)
+
+
 
 izcaliculator is a  for IZ's [projects](https://izcalculator.herokuapp.com)  developer tools.
 
