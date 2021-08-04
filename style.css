@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(211, 211, 228);
+}
+.container{
+    width: 400px;
+    margin: 50px auto;
+    color: white;
+    background-color: rgba(22, 21, 21, 0.801);
+
+}
+.display{
+    color: black;
+    font-size: 18px;
+    background-color: rgb(242, 242, 243);
+   
+}
+button{
+    font-size: 14px;
+    width: 100%;
+}
